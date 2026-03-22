@@ -1,9 +1,9 @@
-﻿{
+{
     "app":  "Pilot Deck",
     "channel":  "stable",
     "version":  "0.1.16",
     "release_name":  "Pilot Deck 0.1.16",
-    "published_at":  "2026-03-22T21:29:06Z",
+    "published_at":  "2026-03-22T21:31:27Z",
     "download_url":  "https://raw.githubusercontent.com/pilotdeckadmin-Sales/Updates/main/PilotDeck-Test-Bundle-v0.1.16-20260322-1728.zip",
     "asset_name":  "PilotDeck-Test-Bundle-v0.1.16-20260322-1728.zip",
     "sha256":  "9ea090d2796768b021e50e4ac143140d7e90a6b6afd51e18cef69f5f2b68e262",
