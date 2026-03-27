@@ -1,13 +1,13 @@
 {
     "app":  "Pilot Deck",
     "channel":  "stable",
-    "version":  "1.20.39",
-    "release_name":  "Pilot Deck 1.20.39",
-    "published_at":  "2026-03-27T22:31:09Z",
-    "download_url":  "https://raw.githubusercontent.com/pilotdeckadmin-Sales/Updates/main/PilotDeck-Test-Bundle-v1.20.39-20260327-1830.zip",
-    "asset_name":  "PilotDeck-Test-Bundle-v1.20.39-20260327-1830.zip",
-    "build_id":  "20260327-1830",
-    "sha256":  "3951843d440d329f4d0bfccfd67232a89ed491a989b455d95e19dd876d078f93",
+    "version":  "1.20.40",
+    "release_name":  "Pilot Deck 1.20.40",
+    "published_at":  "2026-03-27T22:41:28Z",
+    "download_url":  "https://raw.githubusercontent.com/pilotdeckadmin-Sales/Updates/main/PilotDeck-Test-Bundle-v1.20.40-20260327-1840.zip",
+    "asset_name":  "PilotDeck-Test-Bundle-v1.20.40-20260327-1840.zip",
+    "build_id":  "20260327-1840",
+    "sha256":  "bc39450690fe75b3e56b3bf401aa6d9f9136b4a0815c0267d1ea71780728f543",
     "release_notes_url":  "https://github.com/pilotdeckadmin-Sales/Updates",
     "mandatory":  false
 }
