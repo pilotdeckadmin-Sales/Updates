@@ -3,11 +3,11 @@
     "channel":  "stable",
     "version":  "1.2.1",
     "release_name":  "Pilot Deck 1.2.1",
-    "published_at":  "2026-04-20T12:00:10Z",
+    "published_at":  "2026-04-20T12:00:51Z",
     "download_url":  "https://raw.githubusercontent.com/pilotdeckadmin-Sales/Updates/main/PilotDeck-release-zip-v1.2.1-20260420-0759.zip",
     "asset_name":  "PilotDeck-release-zip-v1.2.1-20260420-0759.zip",
     "build_id":  "20260420-0759",
     "sha256":  "c9422b882f69f9e0fac879be0a9cfe31b2498cc16331c677113fddd6443b7f64",
     "release_notes_url":  "https://github.com/pilotdeckadmin-Sales/Updates",
-    "mandatory":  false
+    "mandatory":  true
 }
